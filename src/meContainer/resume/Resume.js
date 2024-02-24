@@ -9,8 +9,6 @@ import data from "../../data.json";
 export default function Resume(props) {
   const [selectedBulletIndex, setSelectedBulletIndex] = useState(0);
   const [carousalOffSetStyle, setCarousalOffSetStyle] = useState({});
-  // const [resumeDetailEffect, setResumeDetails] = useState(null);
-  // const [resumeBulletEffect, setResumeBullets] = useState(null);
 
   let fadeInScreenHandler = (screen) => {
     if (screen.fadeInScreen !== props.id) return;
@@ -43,67 +41,7 @@ export default function Resume(props) {
     );
   };
 
-  // useEffect(() => {
-  //   const fetchData = async () => {
-  //     try {
-  //       const resumeDetailsRes = await axios.post(
-  //         "https://me-the-portfolio-project-backend.onrender.com/fetchUserDetails", {},
-  //         {
-  //           params: {
-  //             userId: "admin",
-  //             db: "resumeDetails",
-  //           },
-  //         }
-  //       )
-
-  //       const resumebulletRes = await axios.post(
-  //         "https://me-the-portfolio-project-backend.onrender.com/fetchUserDetails", {},
-  //         {
-  //           params: {
-  //             userId: "admin",
-  //             db: "resumebullets",
-  //           },
-  //         }
-  //       )
-
-  //       console.log("response for resumeDetails: ", resumeDetailsRes);
-  //       console.log("response for resumebullets: ", resumebulletRes);
-  //       let detailsResObj;
-  //       let bulletResObj;
-  //       if(resumeDetailsRes?.status === 200){
-  //         detailsResObj = resumeDetailsRes?.data?.response;
-  //       }else{
-  //         detailsResObj = {}
-  //       }
-
-  //       if(resumebulletRes?.status === 200){
-  //         bulletResObj = resumebulletRes?.data?.response;
-  //       }else{
-  //         bulletResObj = {};
-  //       }
-
-  //       setResumeBullets(bulletResObj);
-  //       setResumeDetails(detailsResObj);
-  //     } catch (error) {
-  //       console.error("error: ",error)
-  //     }
-  //   };
-
-  //   fetchData();
-  // }, []);
-
   const resumeDetails = [
-    //    <div className="resume-screen-container" key="research">
-    //    {data.resume.resumeDetails.researchDetails.map((resD) => (
-    //      <ResumeHeading
-    //        heading={resD.heading}
-    //       //  subHeading={resD.subHeading}
-    //        fromDate={resD.fromDate}
-    //        toDate={resD.toDate}
-    //       //  description = {resD.descriptions[0]}
-    //      />
-    //    ))}
-    //  </div>,
     <div className="resume-screen-container" key="work-history">
       {data?.resume?.resumeDetails?.workHistory?.map((wH) => (
         <>
@@ -121,27 +59,6 @@ export default function Resume(props) {
               </>
             ))}
           </div>
-        </>
-      ))}
-    </div>,
-    <div className="resume-screen-container" key="internships">
-      {data?.resume?.resumeDetails?.internships?.map((intern) => (
-        <>
-          <ResumeHeading
-            heading={intern.heading}
-            subHeading={intern.subHeading}
-            description={intern.descriptions[0]}
-            fromDate={intern.fromDate}
-            toDate={intern.toDate}
-          />
-          {/* <div className="experience-description">
-           {intern.descriptions.map((internD) => (
-             <>
-               <span className="resume-description-text">{internD}</span>
-               <br />
-             </>
-           ))}
-         </div> */}
         </>
       ))}
     </div>,

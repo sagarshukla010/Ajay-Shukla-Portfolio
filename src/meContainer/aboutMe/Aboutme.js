@@ -98,9 +98,9 @@ export default function Aboutme(props) {
                 {" "}
                 Contact me{" "}
               </button>
-              <a href="resume.pdf" download="Sagar Shukla Resume.pdf">
+              {/* <a href="resume.pdf" download="Sagar Shukla Resume.pdf">
                 <button className="btn highlighted-btn">Get Resume</button>
-              </a>
+              </a> */}
             </div>
           </div>
         </div>

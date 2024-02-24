@@ -6,7 +6,7 @@ const BottomFooter = () => {
     <footer className="footer-container_bottom">
       <div className="box-container">
         <div className="box">
-          <h3>Sagar's Portfolio</h3>
+          <h3>Ajay's Portfolio</h3>
           <p>
             Thank you for visiting my personal portfolio website. Connect with
             me over socials. <br /> <br /> Keep Rising 🚀. Connect with me

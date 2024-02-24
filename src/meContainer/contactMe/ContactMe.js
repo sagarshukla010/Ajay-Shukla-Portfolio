@@ -47,7 +47,7 @@ export default function ContactMe(props) {
       };
       setBool(true);
       const res = await axios.post(
-        `https://me-the-portfolio-project-backend.onrender.com/contact`,
+        `https://me-the-portfolio-project-backend.onrender.com/contactAjayShukla`,
         data
       );
       if (userName.length === 0 || email.length === 0 || message.length === 0) {
