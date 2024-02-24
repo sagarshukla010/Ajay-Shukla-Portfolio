@@ -17,15 +17,20 @@ const BottomFooter = () => {
         <div className="contact-details">
           <h3>Contact Me</h3>
           <p>
-            <i className="fa fa-envelope"></i> sagarshukla010@gmail.com
+            <i className="fa fa-envelope"></i> archnaeletricals@gmail.com
           </p>
           <p>
-            <i className="fa fa-phone"></i> +91-9372764414
+            <i className="fa fa-phone"></i> +91-9329547265
           </p>
 
           <p>
-            <i className="fa fa-home"></i> 306 A1, SBI Colony, Ukhari Tiraha, Jabalpur MP, 482002
+            <i className="fa fa-home"></i> 203, Taj Enclave Nagrth chowk
           </p>
+
+          <p>
+            <i className="fa fa-home"></i> four noor market russal chowk 
+          </p>
+
         </div>
 
         <div className="social-media">

@@ -11,9 +11,9 @@ import ScreenHeading from "../../utilities/screenHeading/ScreenHeading";
 import ScrollService from "../../utilities/ScrollService";
 import Animations from "../../utilities/Animations";
 
-import GauravImage from "../../assets/Testimonial/GauravSmall.png";
-import padmaImage from "../../assets/Testimonial/padmaImage.jpeg";
-import mugunthanImage from "../../assets/Testimonial/MugunthanPic.jpeg";
+// import GauravImage from "../../assets/Testimonial/GauravSmall.png";
+// import padmaImage from "../../assets/Testimonial/padmaImage.jpeg";
+// import mugunthanImage from "../../assets/Testimonial/MugunthanPic.jpeg";
 
 export default function Testimonial(props) {
 
@@ -54,7 +54,7 @@ export default function Testimonial(props) {
   //   fetchData();
   // }, []);
 
-  let imgAry = [GauravImage, mugunthanImage, padmaImage];
+  let imgAry = [];
 
   const options = {
     loop: true,

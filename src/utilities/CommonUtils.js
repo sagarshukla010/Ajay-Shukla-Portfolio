@@ -1,6 +1,6 @@
 import Home from "../meContainer/home/Home";
 import Aboutme from "../meContainer/aboutMe/Aboutme";
-import Resume from "../meContainer/resume/Resume";
+// import Resume from "../meContainer/resume/Resume";
 import Testimonial from "../meContainer/testimonial/Testimonial";
 import ContactMe from "../meContainer/contactMe/ContactMe";
 
@@ -12,10 +12,6 @@ export const TOTAL_SCREEN = [
   {
     screen_name: "Aboutme",
     component: Aboutme,
-  },
-  {
-    screen_name: "Resume",
-    component: Resume,
   },
   {
     screen_name: "Testimonial",

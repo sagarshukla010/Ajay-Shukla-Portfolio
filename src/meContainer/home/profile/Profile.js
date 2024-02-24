@@ -17,13 +17,13 @@ export default function Profile() {
               <a href="/#">
                 <i className="fa fa-google-plus-square"></i>
               </a> */}
-              <a href="https://github.com/sagarshukla010">
+              {/* <a href="">
                 <i className="fa fa-github-square"></i>
               </a>
-              <a href="https://www.youtube.com/@sagarshukla1194">
+              <a href="">
                 <i className="fa fa-youtube-square"></i>
-              </a>
-              <a href="https://www.linkedin.com/in/sagar-shukla-b517b416a/">
+              </a> */}
+              <a href="https://www.linkedin.com/in/ajay-shukla-38a6022a1/">
                 <i className="fa fa-linkedin-square"></i>
               </a>
             </div>

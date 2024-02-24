@@ -150,41 +150,70 @@
         "description": "With a passion for precision and an unwavering commitment to excellence,I stands at the forefront of the construction industry as an A Grade Contractor. With years of hands-on experience and a proven track record of delivering top-tier projects on time and within budget,I brings a unique blend of expertise, innovation, and dedication to every endeavor. Renowned for attention to detail and a keen eye for quality craftsmanship,I leads with integrity and professionalism, ensuring each project surpasses expectations. From Electric Line developments to civil ventures, my expertise spans across a diverse range of construction domains, earning the trust and admiration of clients and peers alike. Driven by a relentless pursuit of excellence and a commitment to client satisfaction, I consistently delivers results that redefine industry standards. At this helm, you can rest assured that your project is in the hands of a true leader in the field of construction.",
         "highlights": {
             "bullets": [
-                "Full Stack Web and Mobile Development",
-                "Interactive Front end as per the design",
-                "React and React Native",
-                "Redux for state Management",
-                "Building Rest API's",
-                "Managing DataBase"
+                "Experienced in HTLT Cabling",
+                "laying Underground Cables",
+                "Generator Installation for Contionus Power Supply"
             ],
             "heading": "Here are a few Highlights:"
         }
     },
     "profile": {
-        "profileRoleTagLine": "I am a A Grade Civil Contractor providing Services Into Various domains"
+        "profileRoleTagLine": "A Class Electrical Contractor | Government Contractor | CPWD | PWD | Public Sector"
     },
     "testimonial": {
         "peopleDetails": [
             {
-                "name": "recommender 1",
-                "designation": "ABCD",
+                "name": "Sunil Sharma",
+                "designation": "Builder(in Jabalpur MP)",
                 "recommendationGiven": "We had the pleasure of working with Ajay Shukla on our recent construction project, and we couldn't be more impressed with the results. Ajay Shukla demonstrated unparalleled expertise, professionalism, and attention to detail throughout every phase of the project. Not only did they deliver exceptional quality workmanship, but they also ensured that the project was completed on time and within budget. Their dedication to exceeding our expectations was evident in every aspect of their work. We highly recommend Ajay kumar Shukla to anyone seeking a reliable, skilled, and trustworthy contractor for their construction needs.",
-                "imagelocation": "../../assets/Testimonial/GauravSmall.png",
+                "imagelocation": "",
                 "serialNumber": 0
             },
             {
-                "name": "recommender 2",
-                "designation": "Service Delivery Manager | Cognizant",
+                "name": "Ajay Dubey",
+                "designation": "Builder(in Jabalpur MP)",
                 "recommendationGiven": "Working with Ajay Shukla was an absolute pleasure. Their knowledge and experience in the construction industry are unmatched, and it truly showed in the exceptional results they delivered. Ajay Shukla went above and beyond to ensure that our project was executed flawlessly, providing innovative solutions and expert guidance every step of the way. Their professionalism, attention to detail, and commitment to customer satisfaction set them apart from other contractors we've worked with in the past. We wholeheartedly recommend Ajay Kumar Shukla to anyone looking for a top-notch contractor who delivers outstanding results",
-                "imagelocation": "../../assets/Testimonial/MugunthanPic.jpeg",
+                "imagelocation": "",
                 "serialNumber": 1
             },
             {
-                "name": "recommender 3",
-                "designation": "Manager - Projects | Cognizant",
+                "name": "A K Tripathi",
+                "designation": "CE(in MPSEB Riva",
                 "recommendationGiven": "Incredible attention to detail, outstanding craftsmanship, and a commitment to excellence are just a few of the qualities that make Ajay Kumar Shukla stand out as a premier contractor in the industry. We had the pleasure of partnering with Ajay Kumar Shukla on our construction project, and we couldn't be happier with the outcome. From the initial consultation to the final touches, Ajay Kumar Shukla demonstrated professionalism, integrity, and a genuine passion for their work. They exceeded our expectations in every way and delivered a finished product that surpassed all our hopes and dreams. We highly recommend Ajay Shukla to anyone in need of a skilled and reliable contractor.",
                 "award": "Always striving, never settling - 26th April 2022",
-                "imagelocation": "../../assets/Testimonial/padmaImage.jpeg",
+                "imagelocation": "",
+                "serialNumber": 2
+            },
+            {
+                "name": "Kanchan Sharma",
+                "designation": "CE(in MPSEB Reva)",
+                "recommendationGiven": "Incredible attention to detail, outstanding craftsmanship, and a commitment to excellence are just a few of the qualities that make Ajay Kumar Shukla stand out as a premier contractor in the industry. We had the pleasure of partnering with Ajay Kumar Shukla on our construction project, and we couldn't be happier with the outcome. From the initial consultation to the final touches, Ajay Kumar Shukla demonstrated professionalism, integrity, and a genuine passion for their work. They exceeded our expectations in every way and delivered a finished product that surpassed all our hopes and dreams. We highly recommend Ajay Shukla to anyone in need of a skilled and reliable contractor.",
+                "award": "Always striving, never settling - 26th April 2022",
+                "imagelocation": "",
+                "serialNumber": 2
+            },
+            {
+                "name": "Mohit Sonkar",
+                "designation": "Civil Contractor",
+                "recommendationGiven": "Incredible attention to detail, outstanding craftsmanship, and a commitment to excellence are just a few of the qualities that make Ajay Kumar Shukla stand out as a premier contractor in the industry. We had the pleasure of partnering with Ajay Kumar Shukla on our construction project, and we couldn't be happier with the outcome. From the initial consultation to the final touches, Ajay Kumar Shukla demonstrated professionalism, integrity, and a genuine passion for their work. They exceeded our expectations in every way and delivered a finished product that surpassed all our hopes and dreams. We highly recommend Ajay Shukla to anyone in need of a skilled and reliable contractor.",
+                "award": "Always striving, never settling - 26th April 2022",
+                "imagelocation": "",
+                "serialNumber": 2
+            },
+            {
+                "name": "KamLesh Srivastav",
+                "designation": "Nagar Nigam Jabalpur SE",
+                "recommendationGiven": "Incredible attention to detail, outstanding craftsmanship, and a commitment to excellence are just a few of the qualities that make Ajay Kumar Shukla stand out as a premier contractor in the industry. We had the pleasure of partnering with Ajay Kumar Shukla on our construction project, and we couldn't be happier with the outcome. From the initial consultation to the final touches, Ajay Kumar Shukla demonstrated professionalism, integrity, and a genuine passion for their work. They exceeded our expectations in every way and delivered a finished product that surpassed all our hopes and dreams. We highly recommend Ajay Shukla to anyone in need of a skilled and reliable contractor.",
+                "award": "Always striving, never settling - 26th April 2022",
+                "imagelocation": "",
+                "serialNumber": 2
+            },
+            {
+                "name": "Naveen Lonale",
+                "designation": "EE Nagar Nigam Jabalpur",
+                "recommendationGiven": "Incredible attention to detail, outstanding craftsmanship, and a commitment to excellence are just a few of the qualities that make Ajay Kumar Shukla stand out as a premier contractor in the industry. We had the pleasure of partnering with Ajay Kumar Shukla on our construction project, and we couldn't be happier with the outcome. From the initial consultation to the final touches, Ajay Kumar Shukla demonstrated professionalism, integrity, and a genuine passion for their work. They exceeded our expectations in every way and delivered a finished product that surpassed all our hopes and dreams. We highly recommend Ajay Shukla to anyone in need of a skilled and reliable contractor.",
+                "award": "Always striving, never settling - 26th April 2022",
+                "imagelocation": "",
                 "serialNumber": 2
             }
         ]
